@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404840575734",
+    "project_id": "react-project-48806",
+    "storage_bucket": "react-project-48806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404840575734:android:03d389df2ed5461ec372d7",
+        "android_client_info": {
+          "package_name": "com.abdullah2403.SellYourCell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-sCm_EOufKIrrYTOLTzbkcYsRAQ1BsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
